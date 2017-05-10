@@ -20,6 +20,9 @@ a {
     text-decoration: none;
     margin: 0 20px;
     border-bottom: 2px solid transparent;
+    
+}.social {
+	margin: 0;
 }
 
 a:hover{
@@ -50,6 +53,7 @@ p {
 	line-height: 26px;
 	font-size: 18px;
 	}
+
 
 .creator {
 	font-family: "Droid Serif", Serif;
@@ -112,4 +116,11 @@ footer{
 	color:#F15B31;
 	font-weight: 700;
 
+}
+
+src{
+	letter-spacing: 1px;
+	margin: 0 20px;
+    border-bottom: 2px solid transparent;
+       
 }
